@@ -5,23 +5,19 @@ export const sidebarLinks =[
         imgUrl: '/icons/Home.svg',
     },
     {
-        label: 'Home1',
-        route: '/',
-        imgUrl: '/icons/Home.svg',
+        label: 'Calendar',
+        route: '/calendar',
+        imgUrl: '/icons/Calendar.svg',
     },
     {
-        label: 'Home2',
-        route: '/',
-        imgUrl: '/icons/Home.svg',
+        label: 'Notification',
+        route: '/notification',
+        imgUrl: '/icons/Notification.svg',
     },
     {
-        label: 'Home3',
-        route: '/',
-        imgUrl: '/icons/Home.svg',
+        label: 'About',
+        route: '/about',
+        imgUrl: '/icons/About.svg',
     },
-    {
-        label: 'Home4',
-        route: '/',
-        imgUrl: '/icons/Home.svg',
-    },
+
 ]
